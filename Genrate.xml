@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <members>
+        <member name="IP">
+            <summary>
+            this class Genrate  mask ,  Subnet , broadcast for specific number of devices
+            </summary>
+        </member>
+        <member name="PostDevices_Ip">
+            <summary>
+            this function take two parameters Devices Number <paramref name="DNum"/> and Random ip <paramref name="Ip"/>
+            </summary>
+            <param name="DNum"></param>
+            <param name="Ip"></param>
+        </member>
+    </members>
+</doc>
